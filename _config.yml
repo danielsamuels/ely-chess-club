@@ -53,7 +53,6 @@ collections:
     description: "The latest club news"
     feature_text: |
       Learn what's happening at Ely Chess Club
-    feature_image: "/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg"
 
 # Collection settings
 defaults:

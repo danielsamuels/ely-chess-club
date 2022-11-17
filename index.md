@@ -1,7 +1,8 @@
 ---
 title: About Us
 feature_image: "/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg"
-feature_text:
+feature_text: |
+  <h2 class="page-title">Ely Chess Club</h2>
 ---
 
 Ely Chess Club is a well established community club participating in the [Bury Area Chess League](https://www.buryleaguechess.org/) in Divisions 1 and 3, the [Cambridgeshire League](http://www.cambschess.co.uk/) in Division 2, as well as attending various tournaments around the country. 
