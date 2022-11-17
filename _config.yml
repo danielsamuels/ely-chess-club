@@ -41,6 +41,10 @@ navigation_header:
 - title: Players
   url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=9CAE
 
+# Footer nav
+navigation_footer:
+  # Intentionally blank
+
 # Collections
 collections:
   posts:
