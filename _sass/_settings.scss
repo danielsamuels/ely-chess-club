@@ -1,7 +1,16 @@
+$headingColour: #FFF !default;
+
 $bodytype: (
   font-family: "Roboto, Arial, sans-serif",
   regular: 400,
   bold: 700,
   italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: 'Roboto, Arial, sans-serif',
+  regular: 400,
+  bold: 700,
   cap-height: 0.75
 ) !default;
