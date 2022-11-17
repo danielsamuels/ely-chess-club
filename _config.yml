@@ -80,3 +80,6 @@ fonts:
     - https://fonts.googleapis.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Roboto&display=swap
+
+
+service_worker: false
