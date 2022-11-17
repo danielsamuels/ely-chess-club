@@ -21,10 +21,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://elychess.club'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Ely Chess Club'
+description: 'Ely Chess Club is an established Cambridgeshire chess club that plays in multiple local leagues.'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -36,10 +36,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Fixtures
+  url: https://ecflms.org.uk/lms/league/club/522/3117/org/fixtures
+- title: Players
+  url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=9CAE
 
 # Footer nav
 navigation_footer:
@@ -49,12 +49,12 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: News
     output: true
-    description: "My thoughts and ideas"
+    description: "The latest club news"
     feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      Learn what's happening at Ely Chess Club
+    feature_image: "/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg"
 
 # Collection settings
 defaults:
