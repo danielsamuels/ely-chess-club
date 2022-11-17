@@ -3,10 +3,6 @@ title: false
 styles: true
 ---
 
-@import "alembic";
-
-$headingColour: #FFF !default;
-
 $bodytype: (
   font-family: "Roboto, Arial, sans-serif",
   regular: 400,
@@ -21,3 +17,6 @@ $headingtype: (
   bold: 700,
   cap-height: 0.75
 ) !default;
+
+
+@import "alembic";
