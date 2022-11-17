@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Ely Chess Club'
 description: 'Ely Chess Club is an established Cambridgeshire chess club that plays in multiple local leagues.'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/images/noun-chess-knight-589743.png"
 
 # Pagination
 paginate: 5
@@ -40,11 +40,6 @@ navigation_header:
   url: https://ecflms.org.uk/lms/league/club/522/3117/org/fixtures
 - title: Players
   url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=9CAE
-
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
 
 # Collections
 collections:
