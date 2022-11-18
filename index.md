@@ -5,7 +5,7 @@ feature_text: |
   <h1 class="page-title">Ely Beet Chess Club</h1>
 ---
 
-Ely Chess Club is a well-established community club participating in the [Bury Area Chess League](https://www.buryleaguechess.org/) in Divisions 1 and 3, the [Cambridgeshire League](http://www.cambschess.co.uk/) in Division 2, as well as attending various tournaments around the country. 
+Ely Beet Chess Club is a well-established community club participating in the [Bury Area Chess League](https://www.buryleaguechess.org/) in Divisions 1 and 3, the [Cambridgeshire League](http://www.cambschess.co.uk/) in Division 2, as well as attending various tournaments around the country. 
 
 We are a friendly bunch comprising players of a wide range of skill levels, from beginners new to the game to seasoned veterans who have been playing most of their lives! Our club nights are hosted at the [Ely Beet Sports & Social Club](https://goo.gl/maps/abuhtTemwurBzzay6) every Monday from around 7:15 pm (except for Bank Holidays) in the lounge bar, and we would love to welcome new people into the fold. 
 
