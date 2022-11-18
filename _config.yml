@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Fixtures
-  url: https://ecflms.org.uk/lms/league/club/522/3117/org/fixtures
+  url: https://ecflms.org.uk/lms/league/club/522/3117/club/fixtures
 - title: Players
   url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=9CAE
 
