@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://elychess.club'
 baseurl: ''
-title: 'Ely Chess Club'
-description: 'Ely Chess Club is an established Cambridgeshire chess club that plays in multiple local leagues.'
+title: 'Ely Beet Chess Club'
+description: 'Ely Beet Chess Club is an established Cambridgeshire chess club that plays in multiple local leagues.'
 permalink: pretty
 logo: "/images/noun-chess-knight-589743.png"
 
@@ -52,7 +52,7 @@ collections:
     output: true
     description: "The latest club news"
     feature_text: |
-      Learn what's happening at Ely Chess Club
+      Learn what's happening at Ely Beet Chess Club
 
 # Collection settings
 defaults:
