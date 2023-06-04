@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://www.elybeetchess.co.uk/'
+url: 'https://www.elybeetchess.co.uk'
 baseurl: ''
 title: 'Ely Beet Chess Club'
 description: 'Ely Beet Chess Club is an established Cambridgeshire chess club that plays in multiple local leagues.'
