@@ -36,10 +36,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Honours
+  url: /honours/
 - title: Fixtures
   url: https://ecflms.org.uk/lms/league/club/522/3117/club/fixtures
-- title: U1600 Round Robin
-  url: https://ecflms.org.uk/lms/node/137645/rounds
 - title: Players
   url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=9CAE
 
