@@ -4,6 +4,13 @@ feature_image: "/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg"
 feature_text: |
   <h1 class="page-title">Ely Beet Chess Club</h1>
 ---
+<style>
+:root {
+    --background-image: url("/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg")
+}
+</style>
+
+
 
 Ely Beet Chess Club is a well-established community club participating in the [Bury Area Chess League](https://www.buryleaguechess.org/) in Divisions 1 and 3, the [Cambridgeshire League](http://www.cambschess.co.uk/) in Division 2, as well as attending various tournaments around the country. 
 

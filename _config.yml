@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Honours
   url: /honours/
+- title: Tournaments
+  url: /tournaments/
 - title: Fixtures
   url: https://ecflms.org.uk/lms/league/club/522/3117/club/fixtures
 - title: Players
