@@ -9,9 +9,10 @@ feature_text: |
     --background-image: url("/images/sung-jin-cho-TXKwALLylZs-unsplash.jpg")
 }
 
-@media screen and (min-width: 40em)
-.content {
-    width: 100%;
+@media screen and (min-width: 40em) {
+    .content {
+        width: 100%;
+    }
 }
 
 tr {
