@@ -40,6 +40,8 @@ The under 1600s tournament will once again be held during the 23-24 season, the 
 | Sam      | b        | w       | b   | w   | b     | w     | b     | w      | b    | w     | b      | -   | w      |
 | Samuel   | w        | b       | w   | b   | w     | b     | w     | b      | w    | b     | w      | b   | -      |
 
+<br><br>
+<br><br>
 
 ### 2022-23 Season
 ##### Under 1600 tournament results
@@ -49,6 +51,7 @@ The inaugural under 1600s competition was won by Dan Finch, who scored a perfect
 Two rapidplay events took place over the summer, the results of each were as follows:
 
 ###### 31st June
+<br><br>
 
 | # | Name    | Grade |    1     |    2     |    3     |    4     | Total | Place |
 |:-:|---------|-------|:--------:|:--------:|:--------:|:--------:|:-----:|-------|
@@ -61,8 +64,11 @@ Two rapidplay events took place over the summer, the results of each were as fol
 | 7 | Nathan  |       | 3 B<br>0 | 6 W<br>1 | 4 W<br>2 | 1 W<br>2 |   2   | =3rd  |
 | 8 | Sam     |       | 4 W<br>0 | 5 B<br>0 | 6 W<br>0 | 3 B<br>0 |   0   | 5th   |
 
+<br><br>
+<br><br>
 
 ###### 7th Aug
+<br><br>
 
 | #  | Name   | Grade |    1     |     2     |    3     |    4     | Total | Place |
 |:--:|--------|-------|:--------:|:---------:|:--------:|:--------:|:-----:|-------|
