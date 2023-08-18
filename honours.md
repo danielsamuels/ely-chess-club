@@ -17,7 +17,7 @@ feature_text: |
 
 #### 2022-23 Season
 
-* **U1600 champion**: Dan Finch
+* **Ely U1600 champion**: Dan Finch
 * **BACL U1600 Game of the Season**: Dan Finch
 
 #### 2021-22 Season
