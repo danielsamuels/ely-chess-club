@@ -23,6 +23,10 @@ tr {
 .article h1 {
     display: none;
 }
+
+h6 + table {
+    margin-top: 16px;
+}
 </style>
 
 ### 2023-24 Season
