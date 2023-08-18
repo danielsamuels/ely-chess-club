@@ -9,6 +9,10 @@ feature_text: |
 :root {
     --background-image: url("/images/sung-jin-cho-TXKwALLylZs-unsplash.jpg")
 }
+
+.article h1 {
+    display: none;
+}
 </style>
 
 #### U1600 champion
