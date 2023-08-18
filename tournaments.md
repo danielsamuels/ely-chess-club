@@ -13,6 +13,10 @@ feature_text: |
 .content {
     width: 100%;
 }
+
+tr {
+    border-bottom: 1px solid #acacac;
+}
 </style>
 
 ### 2023-24 Season
