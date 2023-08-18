@@ -21,10 +21,6 @@ $headingtype: (
 
 @import "alembic";
 
-:root {
-    --background-image: url("/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg")
-}
-
 .typeset .page-title {
   color: $white;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 85%);
