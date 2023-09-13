@@ -34,10 +34,10 @@ h6 + table {
     padding: 0;
     min-height: 375px;
 }
-.tournament-crosstable + table {
+.tournament-crosstable table {
     table-layout: fixed;
 }
-.tournament-crosstable + table th {
+.tournament-crosstable th {
     width: 85px;
 }
 </style>
