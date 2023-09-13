@@ -37,6 +37,14 @@ h6 + table {
 .tournament-crosstable table {
     table-layout: fixed;
 }
+
+.tournament-crosstable td:first-of-type,
+.tournament-crosstable th:first-of-type {
+    position: sticky;
+    left: 0;
+    background-color: white;
+}
+
 .tournament-crosstable th {
     width: 85px;
 }
