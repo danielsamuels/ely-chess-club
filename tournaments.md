@@ -46,7 +46,7 @@ h6 + table {
 ##### Under 1600 tournament
 The under 1600s tournament will once again be held during the 23-24 season, the cross table is as follows:
 
-<div class="tournament-crosstable"></div>
+<div class="tournament-crosstable" markdown="1">
 
 |          | Brittany | Steve A | Gus | Dan | Mikey | Isaac | Robin | Robert | Mich | Lydia | Nathan | Sam | Samuel |
 |----------|----------|---------|-----|-----|-------|-------|-------|--------|------|-------|--------|-----|--------|
@@ -64,6 +64,7 @@ The under 1600s tournament will once again be held during the 23-24 season, the 
 | Sam      | b        | w       | b   | w   | b     | w     | b     | w      | b    | w     | b      | -   | w      |
 | Samuel   | w        | b       | w   | b   | w     | b     | w     | b      | w    | b     | w      | b   | -      |
 
+</div>
 <br><br>
 
 ### 2022-23 Season
