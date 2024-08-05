@@ -17,6 +17,7 @@ feature_text: |
 
 #### 2023-24 Season
 
+* **Fenland Cup (u1700) Winners**
 * **BACL Open Game of the Season**: Ollie Lenton
 
 #### 2022-23 Season
@@ -44,7 +45,7 @@ feature_text: |
 
 #### 2010-11 Season
 
-* **BACL Jamboree Winners**: Ely
+* **BACL Jamboree Winners**
 
 #### 2007-08 Season
 
@@ -52,11 +53,11 @@ feature_text: |
 
 #### 2004-05 Season
 
-* **BACL Jamboree Winners**: Ely
+* **BACL Jamboree Winners**
 
 #### 2003-04 Season
 
-* **BACL Jamboree Winners**: Ely
+* **BACL Jamboree Winners**
 * **BACL Division 1 Player of the Season**: Fraser Jones
 
 #### 2000-01 Season
@@ -105,7 +106,7 @@ feature_text: |
 
 #### 1986-87 Season
 
-* **BACL Division 1 Winners**: Ely
+* **BACL Division 1 Winners**
 * **BACL Division 1 Player of the Season**: N Donovan / K Downham
 
 #### 1982-83 Season
