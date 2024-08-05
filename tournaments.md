@@ -51,29 +51,29 @@ h6 + table {
 </style>
 
 ### 2023-24 Season
-##### Under 1600 tournament
-The under 1600s tournament will once again be held during the 23-24 season, the cross table is as follows:
 
-<div class="tournament-crosstable" markdown="1">
+##### Summer rapidplay events
 
-|          | Brittany | Steve A | Gus | Dan | Mikey | Isaac | Robin | Robert | Mich | Lydia | Nathan | Sam | Samuel |
-|----------|----------|---------|-----|-----|-------|-------|-------|--------|------|-------|--------|-----|--------|
-| Brittany | -        | w       | b   | w   | b     | w     | b     | w      | b    | w     | b      | w   | b      |
-| Steve A  | b        | -       | w   | b   | w     | b     | w     | b      | w    | b     | w      | b   | w      |
-| Gus      | w        | b       | -   | w   | b     | w     | b     | w      | b    | w     | b      | w   | b      |
-| Dan      | b        | w       | b   | -   | w     | b     | w     | b      | w    | b     | w      | b   | w      |
-| Mikey    | w        | b       | w   | b   | -     | w     | b     | w      | b    | w     | b      | w   | b      |
-| Isaac    | b        | w       | b   | w   | b     | -     | w     | b      | w    | b     | w      | b   | w      |
-| Robin    | w        | b       | w   | b   | w     | b     | -     | w      | b    | w     | b      | w   | b      |
-| Robert   | b        | w       | b   | w   | b     | w     | b     | -      | w    | b     | w      | b   | w      |
-| Mich     | w        | b       | w   | b   | w     | b     | w     | b      | -    | w     | b      | w   | b      |
-| Lydia    | b        | w       | b   | w   | b     | w     | b     | w      | b    | -     | w      | b   | w      |
-| Nathan   | w        | b       | w   | b   | w     | b     | w     | b      | w    | b     | -      | w   | b      |
-| Sam      | b        | w       | b   | w   | b     | w     | b     | w      | b    | w     | b      | -   | w      |
-| Samuel   | w        | b       | w   | b   | w     | b     | w     | b      | w    | b     | w      | b   | -      |
+###### 22nd July
 
-</div>
-<br><br>
+| Name    | Grade | Round Scores | Place  |
+|:-------:|:-----:|:------------:|:------:|
+| Ollie   | 2000  |     1234     |  1st   |
+| Martyn  | 2100  |     1233     |  =2nd  |
+| Nathan  | 1500  |     1223     |  =2nd  |
+| Ben L   | 1250  |     1123     |  =2nd  |
+| Dave    | -     |     0123     |  =2nd  |
+| Samuel  | 1000  |     0122     |  =6th  |
+| Adam    | -     |     1112     |  =6th  |
+| Bekzat  | -     |     0111     |  =8th  |
+| Michael | 1450  |     1111     |  =8th  |
+| Rohman  | -     |     00--     | =10th  |
+| Paul    | -     |     0000     | =10th  |
+
+
+<br>
+
+A second round will be played on Monday 19th August in the committee room. All members are welcome to join.
 
 ### 2022-23 Season
 ##### Under 1600 tournament results
