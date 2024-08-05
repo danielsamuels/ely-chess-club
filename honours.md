@@ -15,6 +15,10 @@ feature_text: |
 }
 </style>
 
+#### 2023-24 Season
+
+* **BACL Open Game of the Season**: Ollie Lenton
+
 #### 2022-23 Season
 
 * **Ely U1600 champion**: Dan Finch
