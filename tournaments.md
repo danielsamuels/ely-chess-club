@@ -67,7 +67,7 @@ h6 + table {
 | Adam    | -     |     1112     |  =6th  |
 | Bekzat  | -     |     0111     |  =8th  |
 | Michael | 1450  |     1111     |  =8th  |
-| Rohman  | -     |     00--     | =10th  |
+| Rohman  | -     |    00-\-     | =10th  |
 | Paul    | -     |     0000     | =10th  |
 
 
