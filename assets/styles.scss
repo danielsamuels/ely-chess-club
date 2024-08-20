@@ -33,7 +33,7 @@ $headingtype: (
 }
 
 // Make the menu more usable on mobile
-@include breakpoint(0, break-1) {
+@include breakpoint(0, 640) {
   .item--nav {
     font-size: 2rem;
 
