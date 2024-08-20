@@ -70,6 +70,8 @@ h6 + table {
 | Rohman  | -     |   0 0 - -    | =10th  |
 | Paul    | -     |   0 0 0 0    | =10th  |
 
+<br>
+
 ###### 19th August
 
 |  Name  | Grade | Round Scores | Place |
