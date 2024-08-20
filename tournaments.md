@@ -58,22 +58,33 @@ h6 + table {
 
 | Name    | Grade | Round Scores | Place  |
 |:-------:|:-----:|:------------:|:------:|
-| Ollie   | 2000  |     1234     |  1st   |
-| Martyn  | 2100  |     1233     |  =2nd  |
-| Nathan  | 1500  |     1223     |  =2nd  |
-| Ben L   | 1250  |     1123     |  =2nd  |
-| Dave    | -     |     0123     |  =2nd  |
-| Samuel  | 1000  |     0122     |  =6th  |
-| Adam    | -     |     1112     |  =6th  |
-| Bekzat  | -     |     0111     |  =8th  |
-| Michael | 1450  |     1111     |  =8th  |
-| Rohman  | -     |    00-\-     | =10th  |
-| Paul    | -     |     0000     | =10th  |
+| Ollie   | 2000  |   1 2 3 4    |  1st   |
+| Martyn  | 2100  |   1 2 3 3    |  =2nd  |
+| Nathan  | 1500  |   1 2 2 3    |  =2nd  |
+| Ben L   | 1250  |   1 1 2 3    |  =2nd  |
+| Dave    | -     |   0 1 2 3    |  =2nd  |
+| Samuel  | 1000  |   0 1 2 2    |  =6th  |
+| Adam    | -     |   1 1 1 2    |  =6th  |
+| Bekzat  | -     |   0 1 1 1    |  =8th  |
+| Michael | 1450  |   1 1 1 1    |  =8th  |
+| Rohman  | -     |   0 0 - -    | =10th  |
+| Paul    | -     |   0 0 0 0    | =10th  |
 
+###### 19th August
 
-<br>
+|  Name  | Grade | Round Scores | Place |
+|:------:|:-----:|:------------:|:-----:|
+| Martyn | 2100  |   1 2 3 4    |  1st  |
+| Ben L  | 1250  |  ½ 1½ 1½ 2½  | =2nd  |
+|  Dan   |   -   |   1 2 2 2½   | =2nd  |
+| Ben M  |   -   |   1 1 2 2½   | =2nd  |
+| Ollie  | 2000  |   0 0 1 2    | =5th  |
+| Ben T  |   -   |   0 1 2 2    | =5th  |
+|  Dave  |   -   |   1 1 2 2    | =5th  |
+| Nathan | 1500  |   0 1 1 1    | =8th  |
+| Bekzat |   -   |   0 0 0 1    | =8th  |
+|  Sam   |   -   |   ½ ½ ½ ½    | 10th  |
 
-A second round will be played on Monday 19th August in the committee room. All members are welcome to join.
 
 ### 2022-23 Season
 ##### Under 1600 tournament results
