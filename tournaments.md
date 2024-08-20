@@ -69,6 +69,7 @@ h6 + table {
 | Michael | 1450  |   1 1 1 1    |  =8th  |
 | Rohman  | -     |   0 0 - -    | =10th  |
 | Paul    | -     |   0 0 0 0    | =10th  |
+
 <br>
 
 ###### 19th August
