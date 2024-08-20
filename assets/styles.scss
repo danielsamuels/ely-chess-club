@@ -36,9 +36,6 @@ $headingtype: (
 @include breakpoint(0, 640) {
   .item--nav {
     font-size: 2rem;
-
-    & + & {
-      margin-top: 1.5rem;
-    }
+    margin-top: 1.5rem;
   }
 }
