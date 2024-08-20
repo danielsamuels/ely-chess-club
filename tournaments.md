@@ -69,7 +69,6 @@ h6 + table {
 | Michael | 1450  |   1 1 1 1    |  =8th  |
 | Rohman  | -     |   0 0 - -    | =10th  |
 | Paul    | -     |   0 0 0 0    | =10th  |
-
 <br>
 
 ###### 19th August
@@ -87,6 +86,7 @@ h6 + table {
 | Bekzat |   -   |   0 0 0 1    | =8th  |
 |  Sam   |   -   |   ½ ½ ½ ½    | 10th  |
 
+<br>
 
 ### 2022-23 Season
 ##### Under 1600 tournament results
