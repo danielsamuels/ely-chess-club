@@ -43,7 +43,7 @@ navigation_header:
 - title: Fixtures
   url: https://lms.englishchess.org.uk/lms/organisation/668
 - title: Players
-  url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=9CAE
+  url: https://rating.englishchess.org.uk/players/list?club_code=9CAE
 
 # Footer nav
 # Intentionally blank
