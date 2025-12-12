@@ -74,5 +74,4 @@ Entrance is easy to miss; once in, go to the bottom section where it widens out.
 
 #### Sudbury
 [The Quay Theatre, Quay Ln, Sudbury CO10 2AN](https://www.google.com/maps/search/?api=1&query_place_id=ChIJJ-8PpnZV2EcR9tAGMV_4cPQ&query=The+Quay+Theatre,+Quay+Ln,+Sudbury+CO10+2AN)
-
 Parking directly in front; you may need to enter your registration number into an iPad at reception.
