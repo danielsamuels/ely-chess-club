@@ -50,6 +50,13 @@ Available on the opposite side of the road, just past the pedestrian island outs
 ## Peterborough
 [Broadway Club, 77 Broadway, Peterborough PE1 4DA](https://www.google.com/maps/search/?api=1&query_place_id=ChIJZccHsP7wd0gRyz9AssS_a-E&query=Broadway+Club,+77+Broadway,+Peterborough+PE1+4DA)
 
+Good-sized car park next to the building.
+
+## Rookswood
+[Rookswood Club, 27 West End, March PE15 8DP](https://www.google.com/maps/search/?api=1&query_place_id=ChIJe_TUbEAH2EcRtosRRJfCJ-8&query=Rookswood+Club,+27+West+End,+March+PE15+8DP)
+
+Large car park accessed from Rookswood Road.
+
 ## St Ives / Warboys
 [The St Ives Ivy Leaf Club Ltd, 23 The Broadway, St Ives PE27 5BX](https://www.google.com/maps/search/?api=1&query_place_id=ChIJPySn2mbed0gRbPYG_P5oJWI&query=The+St+Ives+Ivy+Leaf+Club+Ltd,+23+The+Broadway,+St+Ives,+St.+Ives+PE27+5BX,+UK)
 
