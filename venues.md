@@ -17,6 +17,11 @@ For players playing away matches, here are the address details for each club as 
 
 Large car park in front, no need to register your number.
 
+## Cambridge
+[St Augustine's Church, Hall and Community Centre, Cambridge](https://www.google.com/maps/search/?api=1&query_place_id=ChIJ-zVRes9w2EcRhosWpkKh_yU&query=St+Augustine's+Church,+Hall+and+Community+Centre,+Cambridge)
+
+Parking is on-street in the residential area.
+
 ## Ely
 [Ely Beet Sports & Social Club, 83 Lynn Rd, Ely CB6 1DE](https://www.google.com/maps/search/?api=1&query_place_id=ChIJZSti55UW2EcRdRQiLMIbzKk&query=Ely+Beet+Sports+%26+Social+Club,+83+Lynn+Rd,+Ely+CB6+1DE)
 
