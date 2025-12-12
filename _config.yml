@@ -46,8 +46,9 @@ navigation_header:
   url: https://rating.englishchess.org.uk/players/list?club_code=9CAE
 
 # Footer nav
-# Intentionally blank
-navigation_footer: []
+navigation_footer:
+  - title: Venues
+    url: /venues/
 
 # Collections
 collections:

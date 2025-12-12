@@ -16,7 +16,7 @@ We are a friendly bunch comprising players of a wide range of skill levels, from
 
 Whether it's your first time playing chess or you've been playing for a while - if you're interested in meeting a bunch of like-minded folks in the Ely area, then come along and give us a game!
 
-If you're playing in an away match, please see our [Venues page](/venues) for details of where we play as well as useful parking information.
+If you're playing in an away match, please see our [Venues page](/venues/) for details of where we play as well as useful parking information.
 
 ## Contact Us
 
