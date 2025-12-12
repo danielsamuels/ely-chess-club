@@ -28,7 +28,7 @@ Access from Lynn Road, large car park in front of the building.
 Approach from St Ann's Lane; medium-sized car park with visible entrance.
 
 ## Linton
-[The Cathodeon Centre, High St, Linton CB21 4JT](https://www.google.com/maps/search/?api=1&query_place_id=ChIJc1CMBftj2EcRipC-kfffICw)
+[The Cathodeon Centre, High St, Linton CB21 4JT](https://www.google.com/maps/search/?api=1&query_place_id=ChIJc1CMBftj2EcRipC-kfffICw&query=The+Cathodeon+Centre,+High+St,+Linton+CB21+4JT)
 
 If you are early the car park may be locked; someone should open it. Space for around 12 cars in front of the building.
 
