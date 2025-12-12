@@ -1,3 +1,10 @@
+---
+title: Venues
+feature_image: "/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg"
+feature_text: |
+  <h1 class="page-title">Venues</h1>
+---
+
 For players playing away matches, here are the address details for each club as well as any notes on parking arrangements.
 
 | Team              | Address                                                                                     | Parking Notes                                                                                                                                                                                    |
