@@ -35,7 +35,7 @@ Approach from St Ann's Lane; medium-sized car park with visible entrance.
 #### Linton
 [The Cathodeon Centre, High St, Linton CB21 4JT](https://www.google.com/maps/search/?api=1&query_place_id=ChIJc1CMBftj2EcRipC-kfffICw&query=The+Cathodeon+Centre,+High+St,+Linton+CB21+4JT)
 
-If you are early the car park may be locked; someone should open it. Space for around 12 cars in front of the building.
+If you are early the car park may be locked; someone should come along to open it. Space for around 12 cars in front of the building.
 
 #### New England
 [City of Peterborough Sports Club, Dalrod Sports Ground, Bretton Gate, Peterborough PE3 9UZ](https://www.google.com/maps/search/?api=1&query_place_id=ChIJE4_Jq6fxd0gRbR04Rkfj544&query=City+of+Peterborough+Sports+Club,+Dalrod+Sports+Ground,+Bretton+Gate,+Peterborough+PE3+9UZ)
