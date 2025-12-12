@@ -3,7 +3,7 @@ title: About Us
 feature_image: "/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg"
 feature_text: |
   <h1 class="page-title">Ely Beet Chess Club</h1>
----x
+---
 <style>
 :root {
     --background-image: url("/images/mitchell-johnson-CZRNxAIYLzI-unsplash.jpg")
